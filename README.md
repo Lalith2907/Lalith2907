@@ -1,8 +1,8 @@
-# Hi I'm Lalith 👋
+---
+name: Lalith Reddy
+github: Lalith2907
+fav_color: #000000
+---
 
-- Currently studying in PESU
-
-<!---
-Lalith2907/Lalith2907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Lalith!
+I like cricket.
